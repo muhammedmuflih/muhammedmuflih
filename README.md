@@ -11,11 +11,6 @@
 
      
  
-- 🎤 I’m collaborating on Podcast [Spotify](https://open.spotify.com/show/0Xjsp5N1RiHlXl92E1SDxr?si=uSoi7RNjQYKdWF587h2Rnw&utm_source=copy-link&dl_branch=1) -
-
-![1](https://user-images.githubusercontent.com/55251741/126361130-b61cfcac-6762-4245-b88d-9ddcd1f0035e.PNG)
-
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 
 
 <!DOCTYPE html>
