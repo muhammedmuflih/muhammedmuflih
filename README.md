@@ -2,7 +2,7 @@
 
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 
-<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif)" />
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <!DOCTYPE html>
 <html lang="en">
