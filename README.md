@@ -15,7 +15,6 @@
 
 <body>
     <div align="center">
-        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
     </div>
     <div align ="center">
         <p>
