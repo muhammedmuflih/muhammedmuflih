@@ -38,11 +38,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-- 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Tensorflow in depth
      
      <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
