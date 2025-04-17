@@ -26,11 +26,7 @@
         <img src="https://img.shields.io/badge/python-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="python">
         </p>
     </div>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS"
-            alt="view profile">
-  
-<img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif" width="1650" height="250" />
+
 
 
 
