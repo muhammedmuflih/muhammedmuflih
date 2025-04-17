@@ -19,7 +19,7 @@
     </div>
     <div align ="center">
         <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Python">
+        <img src="https://img.shields.io/badge/SQL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="SQL">
         <img src="https://img.shields.io/badge/PowerBi-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="PowerBi">
         <!-- </p>
         <p> -->
