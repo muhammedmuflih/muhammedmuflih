@@ -37,14 +37,3 @@
     </div>
 
 
-
-     
-     <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
-</p>
-
-     
- 
-- 🎤 I’m collaborating on Podcast [Spotify](https://open.spotify.com/show/0Xjsp5N1RiHlXl92E1SDxr?si=uSoi7RNjQYKdWF587h2Rnw&utm_source=copy-link&dl_branch=1) -
-
-![1](https://user-images.githubusercontent.com/55251741/126361130-b61cfcac-6762-4245-b88d-9ddcd1f0035e.PNG)
