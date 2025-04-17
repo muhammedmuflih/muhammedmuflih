@@ -31,3 +31,6 @@
             alt="view profile">
   
 <img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif" width="1650" height="250" />
+
+<img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
+
