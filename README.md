@@ -1,14 +1,6 @@
 <h1>Hi there, I'm Muflih <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-- 🔭 A Penultimate 
-- 🌱 I’m currently learning more about Tensorflow in depth
-     
-     <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
-</p>
-
      
  
 
